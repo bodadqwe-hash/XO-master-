@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Tic Tac Toe",
+  "description": "A premium, professional Tic Tac Toe board game featuring multiple difficulty levels, level progression, achievements, stats tracking, and customizable sound constraints with beautiful glassmorphism and animated ambient effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
